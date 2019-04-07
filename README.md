@@ -4,8 +4,9 @@ Team member:
 2. Yue Zuo
 3. Hang Zheng
 4. Yafang Zhao
-5. Zhenhua Cai
+5. Xuezhen Lin
+6. Zhenhua Cai
 
 Project:
 1. Frontend: HTML, JS, CSS, BootStrap, JSP.
-2. Backend: A maven project using Servlet.
+2. Backend: A maven project using Servlet. Google map api.
